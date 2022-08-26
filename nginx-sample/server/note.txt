@@ -1,3 +1,0 @@
-for some reason the container port for nginx must be 80
-use:
-docker run -p 8080:80 static-server
