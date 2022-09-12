@@ -8,4 +8,7 @@ RUN npm ci
 
 ENV DEBUG=playground:*
 
+EXPOSE 3000
+
 CMD npm start
+
